@@ -44,7 +44,5 @@ To use this repository your machine should have node, npm, monogodb and git.
 
 
 
-## Authors
 
-- SAURAV CHATTERJEE
 
